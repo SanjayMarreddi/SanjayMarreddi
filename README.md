@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**SanjayMarreddi/SanjayMarreddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### *This is Sanjay Marreddi here. Welcome to my GitHub Profile!*
 
 - 🔭 I’m currently working on Machine Learning Projects.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently exploring various Machine Learning Algorithms !
+- 👯 I’m looking to collaborate on Artificial Intelligence.
+- 💬 Ask me about Python,ML,DL.
+- 📫 How to reach me: 
+     - [LinkedIn](https://www.linkedin.com/in/sanjay-marreddi-0970781a0/)
+     - [Twitter](https://twitter.com/Sanjay_Marreddi)
+     - sanjay.mareddi@gmail.com
+   
+   
+- 😄 Pronouns: Coder,AI explorer,Leader
+
