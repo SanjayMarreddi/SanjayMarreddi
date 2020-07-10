@@ -3,7 +3,7 @@
 ### *This is Sanjay Marreddi here. Welcome to my GitHub Profile!*
 
 - 🔭 I’m currently working on Machine Learning Projects.
-- 🌱 I’m currently exploring various Machine Learning Algorithms !
+- 🌱 I’m currently exploring various Algorithms !
 - 👯 I’m looking to collaborate on Artificial Intelligence.
 - 💬 Ask me about Python,ML,DL.
 - 📫 How to reach me: 
