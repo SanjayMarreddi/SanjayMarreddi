@@ -12,5 +12,5 @@
      - sanjay.mareddi@gmail.com
    
    
-- 😄 Pronouns: Coder,AI explorer,Leader
+- 😄 Pronouns: Coder,AI explorer,Kind Hearted
 
