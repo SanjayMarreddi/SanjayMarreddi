@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋 Glad to see you here! 🤩 
 
 ### *This is Sanjay Marreddi here. Welcome to my GitHub Profile!*
 
@@ -13,4 +13,6 @@
    
    
 - 😄 Pronouns: ***Coder*,*AI explorer*,*Kind Hearted***
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=SanjayMarreddi&show_icons=true&hide_border=true)
 
