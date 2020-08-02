@@ -3,7 +3,7 @@
 ### *This is Sanjay Marreddi here. Welcome to my GitHub Profile!*
 
 - 🔭 I’m currently working on **Deep Learning** Projects.
-- 🌱 I’m currently exploring **Computer Vision and NLP ** !
+- 🌱 I’m currently exploring **Computer Vision and NLP** !
 - 👯 I’m looking to collaborate on **Artificial Intelligence**.
 - 💬 Ask me about **Python**,**ML**,**DL**.
 - 📫 How to reach me: 
