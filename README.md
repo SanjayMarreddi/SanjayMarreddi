@@ -16,6 +16,7 @@
   <img align="left" alt="Sanjay's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br />
+
 ### *This is Sanjay Marreddi. Welcome to my GitHub Profile!*
 
 - 🔭 I’m currently working on **Deep Learning** Projects.
