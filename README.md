@@ -1,6 +1,6 @@
 # Hi 👋 Glad to see you here! 🤩 
 
-### *This is Sanjay Marreddi here. Welcome to my GitHub Profile!*
+### *This is Sanjay Marreddi. Welcome to my GitHub Profile!*
 
 - 🔭 I’m currently working on **Deep Learning** Projects.
 - 🌱 I’m currently exploring **Computer Vision and NLP** !
