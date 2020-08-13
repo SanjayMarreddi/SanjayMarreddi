@@ -1,4 +1,4 @@
-# Hi there 👋 Glad to see you here! 🤩 
+# Hi 👋 Glad to see you here! 🤩 
 
 ### *This is Sanjay Marreddi here. Welcome to my GitHub Profile!*
 
