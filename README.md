@@ -32,7 +32,7 @@
 - 😄 Pronouns: ***Coder*,*AI explorer*,*Kind Hearted***
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=SanjayMarreddi&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Sanjay Marreddi&show_icons=true&hide_border=true)
 
 
 
