@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working as a Project **Mentor** at **Open Source** Programs **Contributor's Hack-2020** and **BWLU-2020**.
 - 🌱 I’m currently exploring **Computer Vision and NLP** !
-- 👯 I’m looking to collaborate on **Artificial Intelligence**.
+- 👯 I’m looking to collaborate on **Deep Learning Projects**.
 - 💬 Ask me about **Python**,**ML**,**DL**.
 - 📫 How to reach me: 
      - [LinkedIn](https://www.linkedin.com/in/sanjay-marreddi-0970781a0/)
