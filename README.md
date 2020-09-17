@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working as a Project **Mentor** at **Open Source** Programs **Contributor's Hack-2020** and **BWLU-2020**.
 - 🌱 I’m currently exploring **Data Structures and Algorithms** !
-- 👯 I’m looking to collaborate on **Open Source Deep Learning Projects**.
+- 👯 I’m looking to collaborate on **Open Source Projects**.
 - 💬 Ask me about **Python**,**ML**,**DL**.
 - 📫 How to reach me: 
      - [LinkedIn](https://www.linkedin.com/in/sanjay-marreddi-0970781a0/)
