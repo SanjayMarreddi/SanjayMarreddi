@@ -26,7 +26,7 @@
 - 📫 How to reach me: 
      - [LinkedIn](https://www.linkedin.com/in/sanjay-marreddi-0970781a0/)
      - [Twitter](https://twitter.com/Sanjay_Marreddi)
-     - [email](sanjay.mareddi@gmail.com)
+     - sanjay.mareddi@gmail.com
    
    
 
