@@ -23,10 +23,7 @@
 - 🌱 I’m currently exploring **Data Structures and Algorithms as well as RASA Framework** !
 - 👯 I’m looking to collaborate on **Open Source Projects**.
 - 💬 Ask me about **Python**,**Machine Learning**, **Deep Learning**.
-- 📫 How to reach me: 
-     - [LinkedIn](https://www.linkedin.com/in/sanjay-marreddi-0970781a0/)
-     - [Twitter](https://twitter.com/Sanjay_Marreddi)
-     - sanjay.mareddi@gmail.com
+
    
    
 
