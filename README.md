@@ -17,7 +17,7 @@
 </a>
 <br />
 
-### *This is Sanjay Marreddi. Welcome to my GitHub Profile!*
+### *This is Sanjay Marreddi. Welcome to my GitHub Profile!* :smile:
 
 - 🔭 I’m currently working as a Project **Mentor** at **Open Source** Programs **Contributor's Hack-2020** and **BWLU-2020**.
 - 🌱 I’m currently exploring **Data Structures and Algorithms as well as RASA Framework** !
