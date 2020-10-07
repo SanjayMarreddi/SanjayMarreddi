@@ -20,9 +20,9 @@
 ### *This is Sanjay Marreddi. Welcome to my GitHub Profile!* :smile:
 
 - 🔭 I’m currently working as a Project **Mentor** at **Open Source** Programs **Contributor's Hack-2020** and **BWLU-2020**.
-- 🌱 I’m currently exploring **Data Structures and Algorithms as well as RASA Framework** !
+- 🌱 I’m currently exploring **Data Structures and Algorithms ** !
 - 👯 I’m looking to collaborate on **Open Source Projects**.
-- 💬 Ask me about **Python**, **Machine Learning**, **Deep Learning**.
+- 💬 Ask me about **Python**, **Machine Learning**, **Deep Learning, RASA Chatbots**.
 
    
    
