@@ -29,5 +29,5 @@
 - 💬 Ask me about **Python**,**Git**, **GitHub**, **Machine Learning**, **Deep Learning, RASA Framework**.
    
    
-[![Sanjay's github stats](https://github-readme-stats.vercel.app/api?username=SanjayMarreddi&show_icons=true&theme=radical)](https://github.com/SanjayMarreddi/github-readme-stats)
+[![Sanjay's github stats](https://github-readme-stats.vercel.app/api?username=SanjayMarreddi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
