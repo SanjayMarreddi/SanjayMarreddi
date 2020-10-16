@@ -26,7 +26,7 @@
 
    
    
-
+[![Sanjay's github stats](https://github-readme-stats.vercel.app/api?username=SanjayMarreddi&show_icons=true&theme=radical)](https://github.com/SanjayMarreddi/github-readme-stats)
 
 
 
