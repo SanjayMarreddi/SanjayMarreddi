@@ -26,7 +26,7 @@
 
 - 🌱 I’m currently exploring **Data Structures and Algorithms** !
 - 👯 I’m looking to collaborate on **Open Source Projects**.
-- 💬 Ask me about **Python**,**Git**,**GitHub**,**Machine Learning**,**Deep Learning, RASA Framework**.
+- 💬 Ask me about **Python**,**Git**, **GitHub**, **Machine Learning**, **Deep Learning, RASA Framework**.
    
    
 [![Sanjay's github stats](https://github-readme-stats.vercel.app/api?username=SanjayMarreddi&show_icons=true&theme=radical)](https://github.com/SanjayMarreddi/github-readme-stats)
