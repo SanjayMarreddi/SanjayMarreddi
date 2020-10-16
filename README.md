@@ -18,7 +18,7 @@
 
 <br/> 
 
-### About Me 
+### About Me :zap:
 🎓 I am an **Open Source** Fanatic and Currently Pursuing Bachelors in **Computer Science** at **IIT Goa**. </br>
 💻  My Passions include **Machine Learning**, **Deep Learning**. I like exploring and learning new things ! </br>
 
