@@ -24,7 +24,7 @@
 
 ![Alt Text](https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif)
 
-- 🌱 I’m currently exploring **Data Structures and Algorithms** !
+- 🌱 I’m currently exploring **Google Cloud Platform as well as Data Structures and Algorithms** !
 - 👯 I’m looking to collaborate on **Open Source Projects**.
 - 💬 Ask me about **Python**,**Git**, **GitHub**, **Machine Learning**, **Deep Learning, RASA Framework**.
    
