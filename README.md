@@ -27,6 +27,7 @@
 - 🌱 I’m currently exploring **Google Cloud Platform as well as Data Structures and Algorithms** !
 - 👯 I’m looking to collaborate on **Open Source Projects**.
 - 💬 Ask me about **Python**,**Git**, **GitHub**, **Machine Learning**, **Deep Learning, RASA Framework**.
+- :innocent: Discuss **Ideas** over a Cup of Coffee !!
    
    
 [![Sanjay's github stats](https://github-readme-stats.vercel.app/api?username=SanjayMarreddi&show_icons=true&theme=radical)](https://github.com/SanjayMarreddi)
