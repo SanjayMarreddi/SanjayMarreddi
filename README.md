@@ -23,7 +23,7 @@
 💻  My Passions include **Machine Learning**, **Deep Learning**. I like exploring and learning new things ! </br>
 🌱 I’m currently exploring **OpenCV** as well as **Data Structures and Algorithms** !  </br>
 :innocent: I'm currently working on a Project that uses **Computer Vision** Library **OpenCV**  </br>
-👯 I’m looking to collaborate on **Open Source Projects**. </br>
+👯 I’m looking to collaborate on **Open Source Projects** that use C/C++/Python. </br>
 
    
    
