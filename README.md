@@ -28,5 +28,4 @@
    
    
 [![Sanjay's github stats](https://github-readme-stats.vercel.app/api?username=SanjayMarreddi&show_icons=true&theme=radical)](https://github.com/SanjayMarreddi)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SanjayMarreddi&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="250" height="220"/>
