@@ -20,7 +20,7 @@
 
 ### About Me :zap:
 🎓 Currently Pursuing Bachelors of Technology in **Computer Science** at **IIT Goa**. </br>
-:fire:  An **Open Source** Fanatic with a passion of **Developing Software** that impacts our society positively. </br>
+:fire:  An **Open Source** Fanatic with a passion for **Developing Software** that impacts our society positively. </br>
 💻 Passions include **Machine Learning**, **Deep Learning**. I like exploring and learning new things.</br>
 🌱 Improving my **Problem Solving** skills and exploring **Computer Vision**. </br>
 :innocent: Working on an amazing Group Project that aims at *Integrating Digital Games with Physical Fitness!* **[GameInShape](https://github.com/Innovation-Skyline-2020/GameInShape).**  </br>
