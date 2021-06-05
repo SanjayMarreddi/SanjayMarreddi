@@ -19,12 +19,26 @@
 <br/> 
 
 ### About Me :zap:
-🎓 Currently Pursuing Bachelors of Technology in **Computer Science** at **IIT Goa**. </br>
+<!-- 🎓 Currently Pursuing Bachelors of Technology in **Computer Science** at **IIT Goa**. </br>
 :fire:  An **Open Source** Fanatic with a passion for **Developing Software** that impacts our society positively. </br>
 💻 Passions include **Machine Learning**, **Deep Learning**. I like exploring and learning new things.</br>
 🌱 Improving my **Problem Solving** skills and exploring **Computer Vision**. </br>
 :innocent: Working on an amazing Group Project that aims at *Integrating Digital Games with Physical Fitness!* **[GameInShape](https://github.com/Innovation-Skyline-2020/GameInShape).**  </br>
-👯 Looking to collaborate on **ML/AI based Open Source Projects**. </br>
+👯 Looking to collaborate on **ML/AI based Open Source Projects**. </br> -->
+
+🎓 Currently pursuing Bachelor of Technology in **Computer Science at IIT Goa**.
+
+🔥 An **Open Source** Fanatic with a passion for Developing Software that impacts our society positively.
+
+💻 Passions include **Machine Learning, Deep Learning**. I like exploring and learning new things.
+
+⚡ Currently improving my **Problem-Solving** skills and exploring **Reinforcement Learning**.
+
+👯 Looking to collaborate on ML/AI-based Open Source Projects.
+
+😇 Open to 6 Months Internship for the coming summer, 2022!
+
+✨ Check my projects below !!
 
    
    
