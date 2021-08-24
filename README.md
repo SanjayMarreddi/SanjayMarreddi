@@ -36,7 +36,7 @@
 
 👯 Looking to collaborate on ML/AI-based Open Source Projects.
 
-😇  Looking for **6 Months** Internship **( May to November 2022 )** / **2-3 Months Summer** Internship 2022!
+😇  I am open for **6 Months** Internship **( May to November 2022 )** / **2-3 Months Summer** Internship 2022!
 
 ✨ Check my projects below !!
 
