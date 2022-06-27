@@ -19,28 +19,31 @@
 <br/> 
 
 ### About Me :zap:
-<!-- 🎓 Currently Pursuing Bachelors of Technology in **Computer Science** at **IIT Goa**. </br>
-:fire:  An **Open Source** Fanatic with a passion for **Developing Software** that impacts our society positively. </br>
-💻 Passions include **Machine Learning**, **Deep Learning**. I like exploring and learning new things.</br>
-🌱 Improving my **Problem Solving** skills and exploring **Computer Vision**. </br>
-:innocent: Working on an amazing Group Project that aims at *Integrating Digital Games with Physical Fitness!* **[GameInShape](https://github.com/Innovation-Skyline-2020/GameInShape).**  </br>
-👯 Looking to collaborate on **ML/AI based Open Source Projects**. </br> -->
 
-🎓 Currently pursuing Bachelor of Technology in **Computer Science at IIT Goa**.
+- Working as a **Software Engineer Intern** ( Summer ) at **Intuit**.
+- Loves using software & **programming** to solve practical problems. 
+- Cracked internship offers from various tech companies like **Intuit, Amazon UK, Morgan Stanley, and Mathworks.**
 
-🔥 An **Open Source** Fanatic with a passion for Developing Software that impacts our society positively.
+- Pursuing Bachelor of Technology in Computer Science at **IIT Goa**. ( CPI: 9.27, Graduating in 2023. )
+- Contributed to a few **open-source** organizations like Scikit-Learn & Fury.
+- Worked as an **ML intern** at a few startups & as a **research Intern** at IIT Goa.
 
-💻 Passions include **Machine Learning, Deep Learning**. I like exploring and learning new things.
+- **Mentored** students in various open-source programs like Dev Script - WOC, LetsUpgrade - BWLU.
+- Enjoys participating in Online **Coding Competitions** on CP platforms like Codeforces, Codechef, Leetcode, etc.
+- An active Member of **Google DSC** IIT GOA - Conducted several Live Coding Workshops, Competitions, etc. 
 
-⚡ Currently improving my **Problem-Solving** skills and exploring **Reinforcement Learning**.
 
-👯 Looking to collaborate on ML/AI-based Open Source Projects.
+- Skills 
+  - Languages: Python, C, C++, JavaScript, TypeScript, Haskell, Prolog, Java ( Basic )
+  - Tech Stack: Git, GitHub, Flask, React, OpenCV, Keras, RASA
+  - Interests: Machine Learning, Deep Learning, Reinforcement Learning
+  - Others: Data Structures and Algorithms, Computer Science fundamentals, Object-Oriented Programming. 
 
-😇  I am open for **6 Months** Internship **( May to November 2022 )** / **2-3 Months Summer** Internship 2022!
 
-✨ Check my projects below !!
+- Coding Profiles
+  - Github, Leetcode, Codeforces: SanjayMarreddi
+  - Codechef: sanjay2001
 
-   
-   
+
 [![Sanjay's github stats](https://github-readme-stats.vercel.app/api?username=SanjayMarreddi&show_icons=true&theme=radical)](https://github.com/SanjayMarreddi)
 <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="250" height="220"/>
