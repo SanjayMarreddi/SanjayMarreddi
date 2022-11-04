@@ -19,19 +19,22 @@
 <br/> 
 
 ### About Me :zap:
-
-- Working as a **Software Engineer Intern** ( Summer ) at **Intuit**.
+- Open for **Remote** Software Engineering **Internships** starting from January 2023 ( Winter ).
+- Working as a **Software Development Engineer Intern** at **Amazon UK**.
+- Worked as a **Software Engineer Intern** - Summer at **Intuit India**.
 - Loves using software & **programming** to solve practical problems. 
-- Cracked internship offers from various tech companies like **Intuit, Amazon UK, Morgan Stanley, and Mathworks.**
+- Cracked internship offers from other tech companies like **Morgan Stanley, and Mathworks**.
+
+***
 
 - Pursuing Bachelor of Technology in Computer Science at **IIT Goa**. ( CPI: 9.27, Graduating in 2023. )
 - Contributed to a few **open-source** organizations like Scikit-Learn & Fury.
 - Worked as an **ML intern** at a few startups & as a **research Intern** at IIT Goa.
-
 - **Mentored** students in various open-source programs like Dev Script - WOC, LetsUpgrade - BWLU.
 - Enjoys participating in Online **Coding Competitions** on CP platforms like Codeforces, Codechef, Leetcode, etc.
 - An active Member of **Google DSC** IIT GOA - Conducted several Live Coding Workshops, Competitions, etc. 
 
+***
 
 - Skills 
   - Languages: Python, C, C++, JavaScript, TypeScript, Haskell, Prolog, Java ( Basic )
