@@ -19,9 +19,8 @@
 <br/> 
 
 ### About Me :zap:
-- Open for **Remote** Software Engineering **Internships** starting from January 2023 ( Winter ).
-- Working as a **Software Development Engineer Intern** at **Amazon UK**.
-- Worked as a **Software Engineer Intern** - Summer at **Intuit India**.
+- Open to New Graduate/Junior/University Graduate Software Engineer/Quantitative Developer roles based in the UK, EU, and India.
+- Worked as a **Software Development Engineer** Intern at **Amazon UK** and **Intuit India**. 
 - Loves using software & **programming** to solve practical problems. 
 - Cracked internship offers from other tech companies like **Morgan Stanley, and Mathworks**.
 
