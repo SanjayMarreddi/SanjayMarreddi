@@ -19,7 +19,7 @@
 <br/> 
 
 ### About Me :zap:
-- Open to New Graduate/Junior/University Graduate Software Engineer/Quantitative Developer roles based in the UK, EU, and India.
+- Open to Junior/Graduate Software Engineer/Quantitative Developer roles based in the UK, EU, and India.
 - Worked as a **Software Development Engineer** Intern at **Amazon UK** and **Intuit India**. 
 - Loves using software & **programming** to solve practical problems. 
 - Cracked internship offers from other tech companies like **Morgan Stanley, and Mathworks**.
