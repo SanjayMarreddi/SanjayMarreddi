@@ -19,6 +19,7 @@
 <br/> 
 
 ### About Me :zap:
+- Currently working as **Software Engineer Intern** at **[Blaze AI](https://www.withblaze.app/)** remotely.
 - Open to Junior/Graduate Software Engineer/Quantitative Developer roles based in the UK, EU, and India.
 - Worked as a **Software Development Engineer** Intern at **Amazon UK** and **Intuit India**. 
 - Loves using software & **programming** to solve practical problems. 
