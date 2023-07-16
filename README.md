@@ -19,32 +19,30 @@
 <br/> 
 
 ### About Me :zap:
-- Currently working as **Software Engineer Intern** at **[Blaze AI](https://www.withblaze.app/)** remotely.
-- Open to Junior/Graduate Software Engineer/Quantitative Developer roles based in the UK, EU, and India.
-- Worked as a **Software Development Engineer** Intern at **Amazon UK** and **Intuit India**. 
-- Loves using software & **programming** to solve practical problems. 
-- Cracked internship offers from other tech companies like **Morgan Stanley, and Mathworks**.
-
+- Incoming Electronic Trading Developer at Arctic Lake Technology, UK.
+- Worked as a Software Development Engineer Intern at Amazon UK, Intuit, and Blaze AI.
+- Enjoys building low-latency full-stack systems at the intersection of Finance, Trading, and AI.
+- Graduated with a Bachelor's Degree in Computer Science from IIT Goa with a grade of 9.38/10.
+- Cleared interviews and received offers from top tech companies such as Amazon UK, Flow Traders Amsterdam, Intuit, Blaze AI, Morgan Stanley, and Mathworks.
+ 
 ***
 
-- Pursuing Bachelor of Technology in Computer Science at **IIT Goa**. ( CPI: 9.27, Graduating in 2023. )
-- Contributed to a few **open-source** organizations like Scikit-Learn & Fury.
-- Worked as an **ML intern** at a few startups & as a **research Intern** at IIT Goa.
-- **Mentored** students in various open-source programs like Dev Script - WOC, LetsUpgrade - BWLU.
-- Enjoys participating in Online **Coding Competitions** on CP platforms like Codeforces, Codechef, Leetcode, etc.
-- An active Member of **Google DSC** IIT GOA - Conducted several Live Coding Workshops, Competitions, etc. 
+- Contributed to a few open-source organizations like Scikit-Learn & Fury.
+- Worked as an ML intern at a few startups & as a Research Intern at IIT Goa.
+- Mentored students in open-source programs like Dev Script - WOC, LetsUpgrade - BWLU.
+- Enjoys contributing to open-source projects and doing Competitive Programming.
+- An active Member of Google DSC IIT GOA - Conducted several Live Coding Workshops, Competitions, etc. 
 
 ***
 
 - Skills 
-  - Languages: Python, C, C++, JavaScript, TypeScript, Haskell, Prolog, Java ( Basic )
-  - Tech Stack: Git, GitHub, Flask, React, OpenCV, Keras, RASA
-  - Interests: Machine Learning, Deep Learning, Reinforcement Learning
-  - Others: Data Structures and Algorithms, Computer Science fundamentals, Object-Oriented Programming. 
+  - Languages: C++, C, Python, Java, JavaScript, TypeScript, Haskell, Prolog.
+  - Tech Stack: React, Express, SQL, Snowflake, AWS, Flask, Django, OpenCV, Keras, RASA, Git, GitHub.
+  - Interests: Quantitative Development, Algo Trading, High-Frequency Trading, Artificial Intelligence.
+  - Other skills: Data Structures and Algorithms, Low level and High-Level System Design, Computer Science fundamentals, and Object-Oriented Programming.
 
-
-- Coding Profiles
-  - Github, Leetcode, Codeforces: SanjayMarreddi
+- Profiles
+  - Github, Leetcode, Codeforces, Medium: SanjayMarreddi
   - Codechef: sanjay2001
 
 
