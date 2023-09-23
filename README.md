@@ -19,7 +19,7 @@
 <br/> 
 
 ### About Me :zap:
-- Incoming Electronic Trading Developer at Arctic Lake Technology, UK.
+- Currently working as an Electronic Trading Developer at Arctic Lake Technology based in London, UK.
 - Worked as a Software Development Engineer Intern at Amazon UK, Intuit, and Blaze AI.
 - Enjoys building low-latency full-stack systems at the intersection of Finance, Trading, and AI.
 - Graduated with a Bachelor's Degree in Computer Science from IIT Goa with a grade of 9.38/10.
@@ -39,7 +39,7 @@
   - Languages: C++, C, Python, Java, JavaScript, TypeScript, Haskell, Prolog.
   - Tech Stack: React, Express, SQL, Snowflake, AWS, Flask, Django, OpenCV, Keras, RASA, Git, GitHub.
   - Interests: Quantitative Development, Algo Trading, High-Frequency Trading, Artificial Intelligence.
-  - Other skills: Data Structures and Algorithms, Low level and High-Level System Design, Computer Science fundamentals, and Object-Oriented Programming.
+  - Other skills: GTest, CMake, MultiThreading, Data Structures and Algorithms, Low level and High-Level System Design, Computer Science fundamentals, and Object-Oriented Programming.
 
 - Profiles
   - Github, Leetcode, Codeforces, Medium: SanjayMarreddi
