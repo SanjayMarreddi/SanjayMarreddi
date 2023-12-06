@@ -9,12 +9,6 @@
 <a href="https://github.com/SanjayMarreddi">
   <img align="left" alt="Sanjay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/SanjayMarreddi/">
-  <img align="left" alt="Sanjay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/SanjayMarreddi/">
-  <img align="left" alt="Sanjay's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 
 <br/> 
 
