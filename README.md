@@ -41,10 +41,5 @@
   - Interests: Quantitative Development, Algo Trading, High-Frequency Trading, Artificial Intelligence.
   - Other skills: GTest, CMake, MultiThreading, Data Structures and Algorithms, Low level and High-Level System Design, Computer Science fundamentals, and Object-Oriented Programming.
 
-- Profiles
-  - Github, Leetcode, Codeforces, Medium: SanjayMarreddi
-  - Codechef: sanjay2001
-
-
 [![Sanjay's github stats](https://github-readme-stats.vercel.app/api?username=SanjayMarreddi&show_icons=true&theme=radical)](https://github.com/SanjayMarreddi)
 <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="250" height="220"/>
