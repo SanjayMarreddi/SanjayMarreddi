@@ -13,12 +13,12 @@
 <br/> 
 
 ### About Me :zap:
-- Currently working as an Electronic Trading Developer at Arctic Lake Technology based in London, UK.
+- Currently working as a Software Engineer at Amazon based in Cambridge, UK.
+- Previously worked as eTrading Developer at Arctic Lake Technology based in London, UK.
 - Worked as a Software Development Engineer Intern at Amazon UK, Intuit, and Blaze AI.
 - Enjoys building low-latency full-stack systems at the intersection of Finance, Trading, and AI.
 - Graduated with a Bachelor's Degree in Computer Science from IIT Goa with a grade of 9.38/10.
-- Cleared interviews and received offers from top tech companies such as Amazon UK, Flow Traders Amsterdam, Intuit, Blaze AI, Morgan Stanley, and Mathworks.
- 
+
 ***
 
 - Contributed to a few open-source organizations like Scikit-Learn & Fury.
